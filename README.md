@@ -1,1 +1,44 @@
 # hw2_bootstrap
+- git clone
+- md images
+- git add .
+- git commit -m "สร้างโครงสร้างเริ่มต้น"
+- git checkout -b feature/home-page
+- git add .
+- git commit -m "เพิ่มปุ่มและโลโก้"
+- git add .
+- git commit -m "เพิ่มปุ่มค้นหา"
+- git add .
+- git commit -m "เพิ่มรูปแนะนำ"
+- git add .
+- git commit -m "เพิ่มไฮไลท์แนะนำสถานที่"
+- git add .
+- git commit -m "เพิ่ม footer"  
+- git checkout -b development
+- git checkout -b feature/about-page
+- git add .
+- git commit -m "เพิ่มปุ่มและโลโก้"
+- git add .
+- git commit -m "เพิ่มปุ่มค้นหา"
+- git add .
+- git commit -m "เพิ่มmain เพื่อเพิ่มเนื้อหา"
+- git add .
+- git commit -m "เพิ่ม footer"
+- git checkout development
+- git checkout -b feature/contact-page
+- git add .
+- git commit -m "เพิ่มปุ่มและโลโก้"
+- git add .
+- git commit -m "เพิ่มปุ่มค้นหา"
+- git add .
+- git commit -m "เพิ่มช่องทางการติดต่อ"
+- git add .
+- git commit -m "เพิ่มปุ่มการติดต่อ
+- git add .
+- git commit -m "เพิ่มฟอร์มในการติดต่อ"
+- git add .
+- git commit -m "เพิ่ม footer"
+- git checkout development
+- git merge feature/home-page
+- git merge feature/about-page
+- git merge feature/contact-page
